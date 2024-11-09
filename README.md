@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dereck368
-- 👀 I'm Interested in machine learning, and software development, because of my passion in technology and theoretical ideas
-- 🌱 I’m currently learning Cryptography, Machine learning and python from the book python for Data Analysis
-- 💞️ ⚡ Fun fact: I did lego robotics when I was in middle school, and I know a good amount of architecture.
+- 👀  I’m fascinated by algorithms, data structures, and machine learning. I thrive on implementing new ideas and continuously strive to expand my knowledge and skills.
+- 🌱 I’m currently learning Cryptography and machine learning.
+- 💞️ ⚡ Fun fact: I did Lego robotics in middle school, and I know a good amount of architecture.
 
 <!---
 Dereck368/Dereck368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
